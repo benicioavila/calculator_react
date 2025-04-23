@@ -1,3 +1,3 @@
 # React + Vite
 
-Basic Calculator made just with RectJs + Html5 + CSS3
+Basic Calculator made just with ReactJs + Html5 + CSS3
